@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637368221 source:c:\users\facundo\onedrive\documentos\upe\desarrollo de software\examen_cambiar_nombre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
